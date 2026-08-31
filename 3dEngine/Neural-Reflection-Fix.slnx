@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Neural-Reflection-Fix.vcxproj" Id="449c7a08-6a0c-40f1-a89a-9a46a5da374d" />
+</Solution>
