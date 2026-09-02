@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/SSR-Guardian：面向有限光追预算的时序神经引导自适应反射渲染方案.md",
+                "file": "Docs/研究和学习计划.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSR-Guardian：面向有限光追预算的时序神经引导自适应反射渲染方案"
+              "title": "研究和学习计划"
             }
           }
         ]
@@ -190,10 +190,14 @@
   },
   "active": "1110a1555a38c5c4",
   "lastOpenFiles": [
+    "Docs/研究和学习计划.pdf",
+    "Docs/SSR-Guardian：面向有限光追预算的时序神经引导自适应反射渲染方案.pdf",
+    "研究和学习计划.pdf",
+    "Docs/SSR-Guardian：面向有限光追预算的时序神经引导自适应反射渲染方案.md",
+    "SSR-Guardian：面向有限光追预算的时序神经引导自适应反射渲染方案.pdf",
     "Docs/研究和学习计划.md",
     "Docs/样本生成和训练的流程.txt",
     "Rferences/Computer Graphics Forum - 2026 - Coomans - Real‐time Rendering with a Neural Irradiance Volume.pdf",
-    "Docs/SSR-Guardian：面向有限光追预算的时序神经引导自适应反射渲染方案.md",
     "README.md"
   ]
 }
